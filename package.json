@@ -1,0 +1,23 @@
+{
+  "name": "video-fix",
+  "version": "1.0.0",
+  "description": "Discord bot to fix broken video links",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missingsemi/video-fix.git"
+  },
+  "author": "missingsemi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/missingsemi/video-fix/issues"
+  },
+  "homepage": "https://github.com/missingsemi/video-fix#readme",
+  "dependencies": {
+    "discord.js": "^13.0.1",
+    "dotenv": "^10.0.0"
+  }
+}
